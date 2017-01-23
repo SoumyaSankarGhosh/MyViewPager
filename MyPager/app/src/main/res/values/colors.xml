@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <array name="array_dot_active">
+        <item>#f64c73</item>
+        <item>#20d2bb</item>
+        <item>#3395ff</item>
+        <item>#3b9033</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>#80112a</item>
+        <item>#0d685c</item>
+        <item>#1a4d85</item>
+        <item>#124a0a</item>
+    </array>
+</resources>
